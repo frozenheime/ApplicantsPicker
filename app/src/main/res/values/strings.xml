@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ApplicantsPicker</string>
+    <string name="retry">retry</string>
+    <string name="non_accessible_view">Non accessible view</string>
+    <string-array
+        name="names">
+        <item>Hamzah</item>
+        <item>Courtney</item>
+        <item>Theo</item>
+        <item>Eugene</item>
+        <item>Victor</item>
+        <item>Bruce</item>
+        <item>Rafael</item>
+        <item>Barnaby</item>
+        <item>Anita</item>
+        <item>Vincent</item>
+        <item>Chris</item>
+        <item>Ismail</item>
+        <item>Andrew</item>
+        <item>Verity</item>
+        <item>Jakob</item>
+        <item>Francis</item>
+        <item>Abby</item>
+        <item>Jose</item>
+        <item>Gary</item>
+        <item>Zack</item>
+        <item>Franklin</item>
+        <item>Antonio</item>
+        <item>Lewis</item>
+        <item>Simon</item>
+        <item>Jean</item>
+        <item>Charley</item>
+        <item>Frankie</item>
+        <item>Casey</item>
+        <item>Craig</item>
+        <item>Sonny</item>
+    </string-array>
+
+    <string-array
+        name="surnames">
+        <item>Cooper</item>
+        <item>Larson</item>
+        <item>Lynch</item>
+        <item>Stephens</item>
+        <item>Wright</item>
+        <item>Ray</item>
+        <item>Jenkins</item>
+        <item>Carroll</item>
+        <item>Gardner</item>
+        <item>Adams</item>
+        <item>Seymour</item>
+        <item>Mohamed</item>
+        <item>Jackson</item>
+        <item>Paterson</item>
+        <item>Armstrong</item>
+        <item>Bridges</item>
+        <item>Green</item>
+        <item>Cook</item>
+        <item>Arnold</item>
+        <item>Sanders</item>
+        <item>Craig</item>
+        <item>Hodgson</item>
+        <item>White</item>
+        <item>French</item>
+        <item>Ferguson</item>
+        <item>Fox</item>
+        <item>Hale</item>
+        <item>Rivera</item>
+        <item>Robson</item>
+        <item>Meyer</item>
+    </string-array>
+</resources>
